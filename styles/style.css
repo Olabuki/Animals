@@ -1,0 +1,52 @@
+body {
+    background-image: url(pexels-photo-6876626\ ddd.jpeg );
+    background-size: cover;
+}
+* {
+   
+    padding: 0px;
+    margin: 0px;
+}
+
+.cont {
+    margin-top: 100px;
+
+}
+
+.logo {
+    font-style: italic;
+    background: linear-gradient(to left, gold,black);
+}
+
+.nav {
+    
+    margin-left: 400px;
+    gap: 10px;
+ }
+
+ .a {
+    gap: 1%;
+ }
+ 
+.col img {
+    width: 175px;
+    height: 200px;
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+    background-color: gold;
+}
+
+h3 {
+    background: linear-gradient(to right, pink,black);
+}
+
+.ola {
+    width: 85px;
+
+}
+
+.showcase-image img {
+    width: 700px;
+    height: 500px;
+    margin-right:px;
+}
